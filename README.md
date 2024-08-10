@@ -8,7 +8,7 @@
 -->
 
 # Communicate using Markdown
-
+# Este es otro h1
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
@@ -42,7 +42,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ###### This is an `<h6>` header, which is the smallest
 ```
-
+##### Aprendimos los tipos h
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
