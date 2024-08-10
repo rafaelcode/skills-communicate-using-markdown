@@ -13,7 +13,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 </header>
 
-# Este es otro h1
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
@@ -68,7 +68,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <footer>
 
-#### Aprendimos los tipos H
+
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
